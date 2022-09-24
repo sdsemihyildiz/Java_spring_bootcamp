@@ -45,6 +45,7 @@ public class Main {
         individualCustomer.setFirstName("Semih");
         individualCustomer.setLastName("Yildiz");
 
+
         CorperateCustomer corperateCustomer = new CorperateCustomer();
 
         corperateCustomer.setId(2);
