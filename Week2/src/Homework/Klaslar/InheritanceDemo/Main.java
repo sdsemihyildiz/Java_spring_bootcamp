@@ -7,10 +7,12 @@ public class Main {
 //        TarimKrediManager tkm = new TarimKrediManager();
 //        tkm.hesapla();
 
+
         KrediUI krediUI = new KrediUI();
 //        krediUI.KrediHesapla(new OgretmenKrediManager());
 //        krediUI.KrediHesapla(new BaseKrediManager());
         krediUI.KrediHesapla(new AskerKrediManager());
+
 
 
     }

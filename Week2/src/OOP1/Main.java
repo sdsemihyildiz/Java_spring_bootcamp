@@ -54,6 +54,7 @@ public class Main {
         corperateCustomer.setTaxNumber("31256788");
         corperateCustomer.setCustomerNumber("54321");
 
+
         Customer[] customers = {individualCustomer, corperateCustomer};
         
 
