@@ -4,5 +4,6 @@ public class MilitaryCreditManager extends BaseCreditManager implements ICreditM
     public void calculate() {
         System.out.println("Military credit calculated.");
     }
+    public void save(){}
 
 }

@@ -5,5 +5,6 @@ public class TeacherCreditManager extends BaseCreditManager implements ICreditMa
         System.out.println("Teacher credit calculated.");
 
     }
+    public void save(){}
 
 }
